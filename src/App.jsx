@@ -27,10 +27,10 @@ const skillGroups = [
 ];
 
 const caseStudyDecks = [
-  { title: 'Dodo Payments: Activation Strategy', desc: 'Improving merchant activation from signup to first successful transaction.', icon: '💳', link: 'https://docs.google.com/presentation/d/1JuyIN4Pmc-X_G2UzDghTT14ztTxhhnwc9aHszKHjoio/edit?usp=sharing' },
-  { title: 'Rapido: Strengthening Retention & Affordability', desc: 'Retention-first mobility strategy balancing reliability and user affordability.', icon: '🏍️', link: 'https://docs.google.com/presentation/d/1UXhFrwAn6wDSXfISyMNIih-qrJjjRaZnza21z93PJTI/edit?usp=sharing' },
-  { title: 'ixigo TripWise: AI-Driven Multimodal Route Optimization for India\'s Next Billion', desc: 'AI-assisted route planning to improve multimodal travel confidence and outcomes.', icon: '🧭', link: '#' },
-  { title: 'Spotify: ESCAPING THE ECHO CHAMBER', desc: 'Product exploration focused on discovery depth and healthier listening diversity.', icon: '🎵', link: '#' }
+  { title: 'Dodo Payments: Activation Strategy', desc: 'Improving merchant activation from signup to first successful transaction.', icon: '💳', link: 'https://docs.google.com/presentation/d/1JuyIN4Pmc-X_G2UzDghTT14ztTxhhnwc9aHszKHjoio/edit?slide=id.p1#slide=id.p1' },
+  { title: 'Rapido: Strengthening Retention & Affordability', desc: 'Retention-first mobility strategy balancing reliability and user affordability.', icon: '🏍️', link: 'https://docs.google.com/presentation/d/1SlRNhMcjbkR6T_nkhMLmH8_6_IY1DpthZS7ug-gILbs/edit?slide=id.p1#slide=id.p1' },
+  { title: 'ixigo TripWise: AI-Driven Multimodal Route Optimization for India\'s Next Billion', desc: 'AI-assisted route planning to improve multimodal travel confidence and outcomes.', icon: '🧭', link: 'https://docs.google.com/presentation/d/1UXhFrwAn6wDSXfISyMNIih-qrJjjRaZnza21z93PJTI/edit?slide=id.p1#slide=id.p1' },
+  { title: 'Spotify: ESCAPING THE ECHO CHAMBER', desc: 'Product exploration focused on discovery depth and healthier listening diversity.', icon: '🎵', link: 'https://docs.google.com/presentation/d/1XdTqZ-TH9pGaNKgAuSmDXDghRUNayM8bwDcEqaETFyI/edit?slide=id.p1#slide=id.p1' }
 ];
 
 function App() {
